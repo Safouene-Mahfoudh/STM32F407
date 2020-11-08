@@ -14,8 +14,8 @@ The total conversion time of 12-bit ADC is :
 
 Usually simpling time is at least 3 cycles. So at least it will take 15 clock cycles.  
 
-The instructions used to convert an analog input are :
-**HAL_ADC_Start(&hadc1) ;  
+The instructions used to convert an analog input are :  
+**HAL_ADC_Start(&hadc1);    
 HAL_ADC_PollForConversion(&hadc1, 100) ; // waiting 100 clock cycles  
 Valeur_ADC = HAL_ADC_GetValue(&hadc1) ;**
 
