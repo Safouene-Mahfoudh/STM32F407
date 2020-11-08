@@ -2,9 +2,9 @@
 
 **HAL_GPIO_WritePin( GPIO TypeDef* GPIOx, uint16_t GPIO_Pin, GPIO_PinState PinState)**
 
-**GPIOx** : x the port name of the STM32F40xx (from A ... I )
-**GPIO_Pin** specifies the pin of the GPIO_PIN_x port from (0 ... 15)
-**PinState** can be either GPIO_PIN_RESET or GPIO_PIN_SET
+**GPIOx** : x the port name of the STM32F40xx (from A ... I )  
+**GPIO_Pin** specifies the pin of the GPIO_PIN_x port from (0 ... 15)  
+**PinState** can be either GPIO_PIN_RESET or GPIO_PIN_SET  
 
 The syntax of the command to switch ON the diode on pin PD12 is :
 
