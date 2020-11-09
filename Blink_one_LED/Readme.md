@@ -1,4 +1,7 @@
- In main.c , the LED can be switched ON or OFF with the command :
+> Author  
+> [Safouene Mahfoudh](https://github.com/Safouene-Mahfoudh)  
+
+In main.c , the LED can be switched ON or OFF with the command :
 
 **HAL_GPIO_WritePin( GPIO TypeDef* GPIOx, uint16_t GPIO_Pin, GPIO_PinState PinState)**
 
