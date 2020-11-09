@@ -1,3 +1,9 @@
+> Author  
+> [Safouene Mahfoudh](https://github.com/Safouene-Mahfoudh)  
+
+
+
+
 There are several varieties of LCD's, they differ with the number of lines and the number of columns. On the other hand,they also differ with the pin-out and the type of connection to the control.
 
 - Normal mode: 8 bits or 4 bits with RS and E control bits.
