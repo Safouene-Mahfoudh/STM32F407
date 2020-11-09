@@ -1,3 +1,7 @@
+> Author  
+> [Safouene Mahfoudh](https://github.com/Safouene-Mahfoudh)
+
+
 The STM32F407VG microcontroller includes three 12-bit analog-to-digital converter (ADC) blocks (ADC1, ADC2 and ADC3). The conversion time for eachADC block is about 1µs.There is a wide variety of possible ADC configurations.The maximum frequency of the analog ADC clock is 36 MHz.
 
 The possibilities of use of an ADC converter are multiple.  
